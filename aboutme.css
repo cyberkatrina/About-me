@@ -1,0 +1,49 @@
+article {
+	height:400px;
+	width:23%;
+	float:left;
+}
+
+#column1 {
+	background-color: #fc8b96;
+}
+
+#column2 {
+	background-color: #a0e9ed;
+}
+
+#column3 {
+	background-color: #fffb8f;
+}
+
+h3 {
+	color: #000000;
+	text-align: center;
+	background-color: #db8fff;
+	border:3px solid black;
+	padding:15px;
+	margin:25px auto;
+	font-size:34px;
+	font-family: "Lucida Console", "Courier New", monospace;
+	width:50%;
+}
+
+.bg {
+	background-image: url('bg1.png');
+	background-position: center;
+	text-align: center;	
+}
+
+p bold {
+	font-weight: bold;
+	text-align: center;
+}
+
+p under {
+	text-decoration: underline;
+	text-align: center;
+	font-weight: bold;
+	font-size:22px;
+	font-family: "Papyrus", fantasy;
+	margin: auto;
+}
